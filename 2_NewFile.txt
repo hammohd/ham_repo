@@ -1,1 +1,2 @@
 1. Add new line into second file
+2. Add second line in second file
